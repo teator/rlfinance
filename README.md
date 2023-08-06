@@ -1,6 +1,6 @@
 The repo forked from https://github.com/yhilpisch/rlfinance
 
-Binder link for this repo to work along in JupyterLab - [![This repo in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/teator/rlfinance/HEAD)
+Launch Binder to work along in JupyterLab - [![This repo in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/teator/rlfinance/HEAD)
 
 
 #### Webinar recordings:
