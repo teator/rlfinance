@@ -1,6 +1,16 @@
-The repor forked from https://github.com/yhilpisch/rlfinance
+The repo forked from https://github.com/yhilpisch/rlfinance
 
 Binder link for this repo to work along in JupyterLab - [![This repo in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/teator/rlfinance/HEAD)
+
+
+#### Webinar recordings:
+1. [[QUANTS@DEV] Reinforcement Learning in Finance 01](https://www.youtube.com/watch?v=bDlnrf9Er5E&t=10s)
+2. [[QUANTS@DEV] Reinforcement Learning in Finance 02](https://www.youtube.com/watch?v=Qjwcewzt79U)
+3. [[QUANTS@DEV] Reinforcement Learning in Finance 03](https://www.youtube.com/watch?v=EB5o7iGC7UY)
+4. [[QUANTS@DEV] Reinforcement Learning in Finance 04](https://www.youtube.com/watch?v=81MnYNNweKw)
+5. [[QUANTS@DEV] Reinforcement Learning in Finance 05](https://www.youtube.com/watch?v=5w7GCfiwUKU)
+6. [[QUANTS@DEV] Reinforcement Learning in Finance 06](https://www.youtube.com/watch?v=cTuIZ-wys7s&t=9s)
+
 
 ---
 
